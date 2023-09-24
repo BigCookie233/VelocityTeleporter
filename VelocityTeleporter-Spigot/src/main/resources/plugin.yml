@@ -1,0 +1,10 @@
+name: VelocitySender
+version: 1.0
+main: io.github.bigcookie233.velocityteleporter.VelocityTeleporter
+author: BigCookie233
+commands:
+  velocitysender:
+    description: VelocityTeleporter
+    usage: /velocityteleporter <server>
+    permission: op
+    aliases: vt
